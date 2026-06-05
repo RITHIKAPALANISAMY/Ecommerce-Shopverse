@@ -86,9 +86,9 @@ Each service is independently developed and deployed, following modern microserv
 # 🏗️ System Architecture
 
 ```text
-                     React Frontend
-                           │
-                           ▼
+         React Frontend
+               │
+               ▼
 
  ┌──────────────────────────────┐
  │        Auth Service          │
